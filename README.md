@@ -1,5 +1,7 @@
 # Personal Portfolio Website in React Js
 
+This Portfolio Website in React Js was part of Last Assignment in Summer PEP.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 <img width="1266" alt="Screen Shot" src="https://github.com/ManthanUgemuge/PortfolioReactJs/blob/main/portfolio.png">
