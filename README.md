@@ -12,7 +12,7 @@ Built using:
 - CSS framework: React-bootstrap
 - CSS animations library: Animate.css
 
-## Instuctions :
+## Insructions :
 
 In the /personal-portfolio, you can run:
 
